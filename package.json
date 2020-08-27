@@ -37,7 +37,7 @@
     "workbox-expiration": "^4.3.1",
     "workbox-routing": "^4.3.1",
     "workbox-strategies": "^4.3.1",
-    "workbox-sw": "^4.3.1"
+    "workbox-sw": "^4.3.2"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.6.3",
