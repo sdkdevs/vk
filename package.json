@@ -40,18 +40,18 @@
     "workbox-sw": "^4.3.2"
   },
   "devDependencies": {
-    "@arkweid/lefthook": "^0.6.4",
-    "chrome-launcher": "^0.12.1",
-    "chrome-remote-interface": "^0.26",
-    "ember-template-lint": "^1.13.3",
-    "eslint-config-discourse": "1.1.1",
-    "eslint-plugin-discourse-ember": "0.0.4",
+    "@arkweid/lefthook": "^0.6.3",
+    "chrome-launcher": "^0.12.0",
+    "chrome-remote-interface": "^0.25",
+    "ember-template-lint": "^1.13.2",
+    "eslint-config-discourse": "1.1.0",
+    "eslint-plugin-discourse-ember": "0.0.3",
     "lodash-cli": "https://github.com/lodash-archive/lodash-cli.git",
-    "pretender": "^1.7",
-    "puppeteer": "1.21",
-    "qunit": "2.8.1",
-    "route-recognizer": "^0.3.4",
-    "sinon": "^7.2.5"
+    "pretender": "^1.6",
+    "puppeteer": "1.20",
+    "qunit": "2.8.0",
+    "route-recognizer": "^0.3.3",
+    "sinon": "^7.2.4"
   },
   "scripts": {
     "preinstall": "node -e \"if(process.env.npm_execpath.indexOf('yarn') === -1) throw new Error('NPM is not supported, please use Yarn instead. ')\""
