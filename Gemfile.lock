@@ -143,8 +143,7 @@ GEM
       activesupport (>= 4.2.0)
     guess_html_encoding (0.0.11)
     hashdiff (1.0.1)
-    hashie (3.6.0)
-    highline (1.7.10)
+
     hkdf (0.3.0)
     htmlentities (4.3.4)
     http_accept_language (2.1.1)
@@ -418,7 +417,6 @@ DEPENDENCIES
   actionpack (= 6.0.1)
   actionview (= 6.0.1)
   actionview_precompiler
-  active_model_serializers (~> 0.8.3)
   activemodel (= 6.0.1)
   activerecord (= 6.0.1)
   activesupport (= 6.0.1)
