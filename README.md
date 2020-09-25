@@ -23,7 +23,7 @@ PM> Install-Package VkNet
 ``` bash
 > dotnet add package VkNet
 ```
-### Выполните следующие действия:
+### Выполните следующие действия::
 1. [Создайте приложение](https://vk.com/editapp?act=create)
 2. Авторизуйтесь как указано в [документации](https://vknet.github.io/vk/authorize/)
 3. Используйте необходимые методы. [Список методов по категориям](https://vknet.github.io/vk/)
