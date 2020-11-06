@@ -12,7 +12,6 @@
     "bootbox": "3.2.0",
     "bootstrap": "v3.0.0",
     "chart.js": "2.9.3",
-    "eslint-plugin-lodash": "^6.0.0",
     "favcount": "https://github.com/chrishunt/favcount",
     "handlebars": "^4.3.0",
     "highlight.js": "https://github.com/highlightjs/highlight.js",
@@ -50,8 +49,7 @@
     "pretender": "^1.6",
     "puppeteer": "1.20",
     "qunit": "2.8.0",
-    "route-recognizer": "^0.3.3",
-    "sinon": "^7.2.4"
+    "route-recognizer": "^0.3.3"
   },
   "scripts": {
     "preinstall": "node -e \"if(process.env.npm_execpath.indexOf('yarn') === -1) throw new Error('NPM is not supported, please use Yarn instead. ')\""
